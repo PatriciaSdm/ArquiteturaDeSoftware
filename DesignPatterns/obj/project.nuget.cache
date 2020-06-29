@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/V5P9NTMotdLOoLqwEtlkwZRToWlOYVrDuDPl54BST1WJI6sAtv4kwUE4dP+UMcwEx94bcThH+d4+Qx+y4HQ4A==",
+  "dgSpecHash": "+AWqykDZpfgW3Y80hQEh1wWkXwdpsJXSyoaYwP5r9TYhZiEkKX7qTguHaNvhj4WPheSkG8WOlVdGflD9zacPJQ==",
   "success": true,
   "projectFilePath": "C:\\PROJETOS\\FundamentosArquitetura\\DesignPatterns\\DesignPatterns.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

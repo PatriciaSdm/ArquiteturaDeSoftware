@@ -1,6 +1,7 @@
 ﻿namespace OOP
 {
-    // Poli-morfismo
+    // Poli-morfismo (Multi comportamentos)
+    // Poli-morfismo = Cada classe que herdar de eletrodomestico, vai ter um comportamento diferente ao Testar(), Ligar() etc...
     public class CafeteiraEspressa : Eletrodomestico
     {
         public CafeteiraEspressa(string nome, int voltagem)

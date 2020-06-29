@@ -17,21 +17,29 @@ namespace DemoDI.Controllers
 
         public string Index()
         {
+
+            //            return $@"PRIMEIRA INSTÂNCIA:, { Environment.NewLine}
+            //Transient: {OperacaoService.Transient.OperacaoId + Environment.NewLine}
+            //Scoped: {OperacaoService.Transient.OperacaoId + Environment.NewLine}
+            //Singleton: {OperacaoService.Transient.OperacaoId + Environment.NewLine}
+            //Transient: {OperacaoService.Transient.OperacaoId + Environment.NewLine}
+            //                   Transient: {OperacaoService.Transient.OperacaoId + Environment.NewLine}";
+
             return
-                "Primeira instância: " + Environment.NewLine +
-                OperacaoService.Transient.OperacaoId + Environment.NewLine +
-                OperacaoService.Scoped.OperacaoId + Environment.NewLine +
-                OperacaoService.Singleton.OperacaoId + Environment.NewLine +
-                OperacaoService.SingletonInstance.OperacaoId + Environment.NewLine +
+                $@"
+                PRIMEIRA INSTÂNCIA: { Environment.NewLine}
+                {"Transient:",-20}  {OperacaoService.Transient.OperacaoId + Environment.NewLine} 
+                {"Scoped:",-20}  { OperacaoService.Scoped.OperacaoId + Environment.NewLine}
+                {"Singleton:",-20}  { OperacaoService.Singleton.OperacaoId + Environment.NewLine} 
+                {"SingletonInstance:",-20}  { OperacaoService.SingletonInstance.OperacaoId + Environment.NewLine +
 
-                Environment.NewLine +
-                Environment.NewLine +
+                Environment.NewLine + Environment.NewLine}
 
-                "Segunda instância: " + Environment.NewLine +
-                OperacaoService2.Transient.OperacaoId + Environment.NewLine +
-                OperacaoService2.Scoped.OperacaoId + Environment.NewLine +
-                OperacaoService2.Singleton.OperacaoId + Environment.NewLine +
-                OperacaoService2.SingletonInstance.OperacaoId + Environment.NewLine;
+                SEGUNDA INSTÂNCIA: { Environment.NewLine} 
+                {"Transient:",-20} { OperacaoService2.Transient.OperacaoId + Environment.NewLine } 
+                {"Scoped:",-20} { OperacaoService2.Scoped.OperacaoId + Environment.NewLine }
+                {"Singleton:",-20} { OperacaoService2.Singleton.OperacaoId + Environment.NewLine} 
+                {"SingletonInstance:",-20} { OperacaoService2.SingletonInstance.OperacaoId + Environment.NewLine}".ToString();
         }
     }
 }

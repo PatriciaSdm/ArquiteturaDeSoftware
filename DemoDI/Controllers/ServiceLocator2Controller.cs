@@ -7,7 +7,7 @@ namespace DemoDI.Controllers
 {
     public class ServiceLocator2Controller : Controller
     {
-
+        //Evitar o uso
         public void Index([FromServices] IServiceProvider serviceProvider)
         {
             // Retorna null se não estiver registrado

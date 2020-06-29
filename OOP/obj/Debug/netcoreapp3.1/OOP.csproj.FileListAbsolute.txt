@@ -1,0 +1,15 @@
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CopyComplete
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache

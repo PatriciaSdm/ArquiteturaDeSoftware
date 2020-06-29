@@ -1,0 +1,17 @@
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoA.exe
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.exe
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.deps.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoB.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoA.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp3.1\ProjetoA.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.csprojAssemblyReference.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.csproj.CopyComplete
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp3.1\ProjetoB.genruntimeconfig.cache

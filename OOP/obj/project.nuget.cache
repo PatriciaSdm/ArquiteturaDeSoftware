@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HY2iogH4MHijH0vbz4gaNxJhu4zB8foL2bcL5uO40HfUh89uJmRqPMsJJcqCbhkWE0kjixE/BXu/EjS46qLFUA==",
+  "dgSpecHash": "eJSqY5GwqgFvpYjv1zGZns1YTlt1Rpvl5aCduSEmGfeMkH76vJlbTNN1Y84obBti+QvKocfI+oGl3AiBIU5D/A==",
   "success": true,
   "projectFilePath": "C:\\PROJETOS\\FundamentosArquitetura\\OOP\\OOP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\patri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
   ],
   "logs": []
 }

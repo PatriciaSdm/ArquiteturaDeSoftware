@@ -10,10 +10,10 @@ namespace DemoDI.Cases
             IOperacaoSingleton singleton,
             IOperacaoSingletonInstance singletonInstance)
         {
-            Transient = transient;
-            Scoped = scoped;
-            Singleton = singleton;
-            SingletonInstance = singletonInstance;
+            Transient = transient;     //Muda em todos os lugares (instancias), mesmo durante o mesmo request
+            Scoped = scoped;           //Se mantem o mesmo em todos os lugares durante o mesmo request, (muda de usuário p/ usuário)
+            Singleton = singleton;     //Se mantem o mesmo independente do request, durante toda execução da aplicação
+            SingletonInstance = singletonInstance;  //""Igual o Singleton, porém é definido a instancia (EX: services.AddSingleton<IOperacaoSingletonInstance>(new Operacao(Guid.Empty));)
         }
 
         public IOperacaoTransient Transient { get; }

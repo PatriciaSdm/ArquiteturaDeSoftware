@@ -7,6 +7,7 @@ namespace DemoDI.Controllers
 {
     public class ServiceLocatorController : Controller
     {
+        //Evitar o uso
         private readonly IServiceProvider _serviceProvider;
 
         public ServiceLocatorController(IServiceProvider serviceProvider)

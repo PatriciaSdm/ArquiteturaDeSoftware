@@ -1,0 +1,12 @@
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.deps.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.dll
+C:\PROJETOS\FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.pdb
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csprojAssemblyReference.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.dll
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.pdb
+C:\PROJETOS\FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.genruntimeconfig.cache

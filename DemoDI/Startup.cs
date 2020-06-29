@@ -38,6 +38,7 @@ namespace DemoDI
 
             #region Generics
 
+            //typeof será resolvido (qual classe umplementa) durante a execução
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             #endregion
@@ -64,17 +65,23 @@ namespace DemoDI
 
             #endregion
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddRazorPages();
         }
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseStaticFiles();
-            
-            app.UseMvc(routes =>
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapRoute(name: "default", "{controller=Home}/{action=Index}/{id?}");
-            });
+                //endpoints.MapRazorPages();
+                endpoints.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");});
+          
         }
     }
 }

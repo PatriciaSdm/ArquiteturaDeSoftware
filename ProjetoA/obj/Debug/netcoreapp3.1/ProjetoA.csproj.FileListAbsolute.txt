@@ -1,0 +1,13 @@
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.exe
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.deps.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp3.1\ProjetoA.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.genruntimeconfig.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp3.1\ProjetoA.csprojAssemblyReference.cache

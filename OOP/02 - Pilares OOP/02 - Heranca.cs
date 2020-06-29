@@ -2,6 +2,7 @@
 
 namespace OOP
 {
+    //Funcionário herda de pessoa - (Funcionário extende a classe pessoa com especialização em funcionário)
     public class Funcionario : Pessoa
     {
         public DateTime DataAdmissao { get; set; }

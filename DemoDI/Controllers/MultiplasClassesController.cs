@@ -6,6 +6,8 @@ namespace DemoDI.Controllers
 {
     public class MultiplasClassesController : Controller
     {
+        //Evitar o uso, principio de Liskov
+        //Uma interface deveria ser para apenas uma classe
         private readonly Func<string, IService> _serviceAccessor;
 
         public MultiplasClassesController(Func<string, IService> serviceAccessor)

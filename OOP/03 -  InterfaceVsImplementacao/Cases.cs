@@ -1,5 +1,7 @@
 ﻿namespace OOP
 {
+    //Abstrato = herda estados e comportamentos      X      Interface = herda apenas comportamentos
+    //Interface = Contrato, obriga a implementar os métodos
     public interface IRepositorio
     {
         void Adicionar();

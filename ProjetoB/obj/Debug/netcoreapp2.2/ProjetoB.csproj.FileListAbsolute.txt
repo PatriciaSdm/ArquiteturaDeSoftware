@@ -1,0 +1,15 @@
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.deps.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\bin\Debug\netcoreapp2.2\ProjetoA.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csprojAssemblyReference.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.csproj.CopyComplete
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.dll
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.pdb
+C:\PROJETOS\FundamentosArquitetura\ProjetoB\obj\Debug\netcoreapp2.2\ProjetoB.genruntimeconfig.cache

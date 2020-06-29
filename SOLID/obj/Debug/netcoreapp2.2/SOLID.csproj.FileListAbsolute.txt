@@ -1,0 +1,12 @@
+C:\PROJETOS\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+C:\PROJETOS\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\PROJETOS\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\PROJETOS\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+C:\PROJETOS\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csprojAssemblyReference.cache
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.CoreCompileInputs.cache
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
+C:\PROJETOS\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.genruntimeconfig.cache

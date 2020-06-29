@@ -27,3 +27,18 @@ namespace SOLID
         }
     }
 }
+
+
+//SRP = Uma classe deve ter um, e apenas um, motivo para ser modificada
+
+//OCP = Entidades de software (classes, módulos, funções etc...) devem estar abertas para extensão, mas fechadas para modificação
+//      EX: Pode ser usado herança, extension methods etc...
+
+//LSP = Subclasses devem ser substituiveis por suas superclasses
+//      Prova real de que a herança foi feita da forma correta ou não
+
+//ISP = Clientes não devem ser forçados a depender de métodos que não usam
+//      Muitas interfaces especificas são melhores que uma interface unica
+
+//DIP = Dependa de uma abstração, e não de uma implementação
+ //     Uma classe de alto nível não pode depender (instanciar) de outra de baixo nível

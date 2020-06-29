@@ -1,6 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 
-//[assembly: InternalsVisibleTo("ProjetoB")]
+//[assembly: InternalsVisibleTo("ProjetoB")] // Para deixar visível ao ProjetoB - (Como se estivesse no mesmo assembly)
+//[assembly: InternalsVisibleTo("ProjetoB")] // Para deixar visível ao ProjetoB - (Como se estivesse no mesmo assembly)
 namespace ProjetoA
 {
     #region Classes
@@ -11,11 +12,11 @@ namespace ProjetoA
         private void TestePrivado() { }
         internal void TesteInternal() { }
         protected void TesteProtegido() { }
-        private protected void TestePrivadoProtegido() { }
-        protected internal void TesteProtegidoInterno() { }
+        private protected void TestePrivadoProtegido() { }  // Deve ser Privado E protegido
+        protected internal void TesteProtegidoInterno() { } // Deve ser Interno OU protegido
     }
 
-    public sealed class Selada { }
+    public sealed class Selada { } //sealed = não pode ser herdada, apenas instanciada
 
     class Privada { }
 
@@ -32,13 +33,13 @@ namespace ProjetoA
         public TesteClasses()
         {
             var publica = new Publica();
-            var privada = new Privada();
-            var interna = new Interna();
-            //var abstrata = new Abstrata();
+            var privada = new Privada();  //Possivel instanciar pois esta no mesmo assembly
+            var interna = new Interna();  //""
+            //var abstrata = new Abstrata(); //Classe abstrata não pode ser instanciada
         }
     }
 
-    //class TesteSelada : Selada { }
+    //class TesteSelada : Selada { }  // Não pode herdar, pois é uma sealed class
 
     class TesteModificador1
     {
@@ -47,11 +48,11 @@ namespace ProjetoA
             var publica = new Publica();
 
             publica.TestePublico();
-            publica.TesteInternal();
+            publica.TesteInternal(); //Possivel chamar pois esta no mesmo assembly
             publica.TesteProtegidoInterno();
-            //publica.TesteProtegido();
-            //publica.TestePrivadoProtegido();
-            //publica.TestePrivado();
+            //publica.TesteProtegido(); // Não pode chamar pois não esta herdando de  "Publica()" =>  EX: TesteModificador2()
+            //publica.TestePrivado();  // Método privado só pode ser chamado internamente na classe "Publica()"
+            //publica.TestePrivadoProtegido();  // "", ""
         }
     }
 
@@ -62,8 +63,8 @@ namespace ProjetoA
             TestePublico();
             TesteInternal();
             TesteProtegido();
-            TesteProtegidoInterno();
-            TestePrivadoProtegido();
+            TesteProtegidoInterno(); // Possivel pois esta herdando
+            TestePrivadoProtegido(); //""
             //TestePrivado();
         }
     }
@@ -83,11 +84,11 @@ namespace ProjetoA
 /*******************************************************/
 // internal:
 
-// Access is limited to the current assembly.
+// Access is limited to the current assembly.               // CURRENT ASSEMBLY = DLL (ao compilar) = todas as classes dentro do projeto
 /*******************************************************/
 // protected internal:
 
-// Access is limited to the current assembly or types
+// Access is limited to the current assembly or types       // CURRENT ASSEMBLY = DLL (ao compilar) = todas as classes dentro do projeto
 // derived from the containing class.
 /*******************************************************/
 // private:
